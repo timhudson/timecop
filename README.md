@@ -2,7 +2,7 @@
 
 Simple parsing of written durations
 
-[![build status](https://secure.travis-ci.org/timhudson/timecop.png)](http://travis-ci.org/timhudson/timecop)
+[![Build Status](https://travis-ci.org/timhudson/timecop.png?branch=master)](https://travis-ci.org/timhudson/timecop)
 
 # example
 
