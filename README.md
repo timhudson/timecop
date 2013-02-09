@@ -16,13 +16,13 @@ var interval = setInterval(function() {
 }, duration);
 ```
 
-# timecop checks for milliseconds, seconds, minutes, hours, days and weeks
+### timecop checks for milliseconds, seconds, minutes, hours, days and weeks
 
 ``` js
 timecop('1 week, 2 days, 3 hours, 4 minutes, 5 seconds and 6 milliseconds');
 ```
 
-# and outputs to any of those same units
+### and outputs to any of those same units
 
 ``` js
 var duration = timecop('2 days');
