@@ -1,6 +1,6 @@
 {
   "name": "timecop",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Simple parsing of written durations",
   "main": "index.js",
   "directories": {
